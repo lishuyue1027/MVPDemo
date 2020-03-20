@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':day1'
 rootProject.name='MVPDemo'
